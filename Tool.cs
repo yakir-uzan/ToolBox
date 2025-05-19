@@ -16,19 +16,4 @@ public abstract class Tool
     public abstract void Describe();
 
     public abstract void Use();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }

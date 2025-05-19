@@ -18,6 +18,8 @@ namespace ToolBox
             tools.Add(new Saw("Wood Saw", 2));
             tools.Add(new Screwdriver("Phillips Screwdriver", 1));
             tools.Add(new PipeCutter("Metal Pipe Cutter", 3));
+            tools.Add(new NailGun("Nail gun", 1));
+            tools.Add(new WireStripper("WireStripper", 5));
 
             foreach (Tool tool in tools)
             {
